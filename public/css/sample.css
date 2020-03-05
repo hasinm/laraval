@@ -1,0 +1,17 @@
+#table1{
+    background-color:midnightblue;
+    color:white;
+    font-size: 30px;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 220px;
+    
+    margin-left: 35px;
+}
+li{
+    font-style:bold;
+    font-size: 25px;
+    color:blue;
+    margin-bottom: 5px;
+}
